@@ -1,25 +1,9 @@
 {
-  "name": "NULLTRACE - Simulateur d'intrusion",
+  "name": "NULLTRACE",
   "short_name": "NULLTRACE",
-  "description": "Simulateur de piratage fictif en terminal, avec mini-jeux et progression.",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#050705",
-  "theme_color": "#050705",
+  "theme_color": "#39ff8a",
+  "background_color": "#060a08",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
